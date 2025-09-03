@@ -1,9 +1,11 @@
 ![Anguish](https://i.imgur.com/11zE3dH.jpeg "Pain")
-## HELP
+
+Help
+======
 > Take a minute
 >> Take a deep breath
 
-...
+![Pause](https://i.imgur.com/R3w2EHl.jpeg "pause")
 
 > NO more pain
 > NO MORE ANGUISH
