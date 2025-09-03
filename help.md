@@ -7,7 +7,7 @@
 >> Take a deep breath
 
 
-![Pause](https://i.imgur.com/R3w2EHl.jpeg "pause")
+<img src="[image.png](https://i.imgur.com/R3w2EHl.jpeg)" width="200" height="200">
 
 
 > NO more pain
