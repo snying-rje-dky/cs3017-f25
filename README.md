@@ -9,9 +9,8 @@ Leave a line to create a new paragraph. Avoid indenting paragraphs, it will conf
 # How to make a Sub Heading?
 ## This is how you make a subheading, double hashtags. 
 We can **emphasize** words with double asterisks, sort of like discord *lol*, single asterisks create italics
-Let me see if striking works. ~~Yeah~~, I wonder if it uses the same rules. Like ||silence|| 
+Let me see if striking works. ~~Yeah~~, I wonder if it uses the same rules. Not always. ||I Tried||
 > I saw the light at the end of the tunnel.
-wow
 >
 > Wow it's bright.
 >> Like **SUPER** ***SUPER*** bright.
