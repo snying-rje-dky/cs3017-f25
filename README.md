@@ -1,7 +1,7 @@
-# cs3017-f25
+# cs3017-f25 {#Second}
 Basic Web Page for CS3017
 
-# Another Header Wow {#Second}
+# Another Header Wow 
 I am just copying what my Professor is showing on the screen.
 
 Leave a line to create a new paragraph. Avoid indenting paragraphs, it will confuse GitHub.
@@ -37,4 +37,5 @@ ___
 Well then, time to insert a link!
 ---------------------------------
 Open [this link](help.md)
-[Subsection example](#Second) This will help you scroll back up.
+[Subsection example](#Second) 
+This will help you scroll back up.
