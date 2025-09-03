@@ -34,6 +34,6 @@ Let me see if striking works. ~~Yeah~~, I wonder if it uses the same rules. Not 
 1. I'm making this the last numbered item.
 
 ___
-Well then, time to insert an image!
+Well then, time to insert a link!
 ---------------------------------
-Open [this image](
+Open [this link](help.md)
