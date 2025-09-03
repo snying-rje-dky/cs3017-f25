@@ -11,6 +11,7 @@ Leave a line to create a new paragraph. Avoid indenting paragraphs, it will conf
 We can **emphasize** words with double asterisks, sort of like discord *lol*, single asterisks create italics
 Let me see if striking works. ~~Yeah~~, I wonder if it uses the same rules. Like ||silence|| 
 > I saw the light at the end of the tunnel.
+wow
 >
 > Wow it's bright.
 >> Like **SUPER** ***SUPER*** bright.
