@@ -1,5 +1,4 @@
-![Welcome Banner, Image Sourced from Kiki's Delivery Service, 1989](<img width="1280" height="360" alt="image" src="https://github.com/user-attachments/assets/75c82313-ffeb-4ebc-a032-aab2dc8daaf3" />
-)
+![Cropped image sourced from a scene in the movie Kiki's Delivery Service, featuring a bright blue sky with fluffy white clouds, mountains, and a lake](https://i.imgur.com/j2nEF8n.png)
 *Kiki's Delivery Service (1989, Studio Ghibli)*
 
 # A Little About Daycho (Me!) ♪(´▽｀)
