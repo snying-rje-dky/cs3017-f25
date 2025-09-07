@@ -29,7 +29,10 @@ Drawing is my longest and most enjoyable hobby. It's my dearest endeavor, though
 
 **Albert Camus**, *The Plague*
 
-### Thank you!
+
+----
+
+Thank you for reading!
 
 
 
