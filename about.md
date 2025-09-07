@@ -17,17 +17,18 @@ Drawing is my longest and most enjoyable hobby. It's my dearest endeavor, though
 1. Bhutanese Potato Cheese Curry
 2. Tom Yum Kung
 3. Steak and Fries
-
-## Where to Find Me!
-◊ [My GitHub Profile](https://github.com/snying-rje-dky)
-
-◊ [My "About Me" page!](about.md)
-
+   
 ## ☆ My Favourite Quote ☆
 
 > “They knew now that if there is one thing one can always yearn for, and sometimes attain, it is human love.”
 
 **Albert Camus**, *The Plague*
+
+
+## Where to Find Me!
+◊ [My GitHub Profile](https://github.com/snying-rje-dky)
+
+◊ [My "About Me" page!](about.md)
 
 
 ----
